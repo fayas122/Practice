@@ -1,0 +1,22 @@
+.toggle {
+    background-color: rgb(188, 188, 188);
+    border-radius: 20px;
+    width:260px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+
+}
+
+.Btn {
+     padding: 5px;
+    width: 60px;
+    height: 30px;;
+    border-radius: 10px;
+
+
+}
